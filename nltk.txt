@@ -1,6 +1,7 @@
 wordnet
 pros_cons
 reuters
+hmm_treebank_pos_tagger
 maxent_treebank_pos_tagger
 universal_tagset
 punkt
@@ -12,13 +13,3 @@ porter_test
 vader_lexicon
 treebank
 dependency_treebank
-plain_text_corpus_reader
-gutenberg
-word_tokenize
-sent_tokenize
-PorterStemmer
-LancasterStemmer
-brown
-stopwords
-wordcloud
-ngrams
