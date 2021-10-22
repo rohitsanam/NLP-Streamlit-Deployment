@@ -13,3 +13,7 @@ porter_test
 vader_lexicon
 treebank
 dependency_treebank
+sent_tokenize
+word_tokenize
+stopwords
+gutenberg
