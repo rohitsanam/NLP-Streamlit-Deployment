@@ -1,7 +1,6 @@
 wordnet
 pros_cons
 reuters
-hmm_treebank_pos_tagger
 maxent_treebank_pos_tagger
 universal_tagset
 punkt
@@ -13,6 +12,8 @@ porter_test
 vader_lexicon
 treebank
 dependency_treebank
+tokenize
+all
 sent_tokenize
 word_tokenize
 stopwords
