@@ -361,10 +361,10 @@ for i in range(2,6):
 
 
 import nltk
-#nltk.download("all")
-#nltk.download('punkt')
-#nltk.download('wordnet')
-#nltk.download('gutenberg')
+nltk.download("all")
+nltk.download('punkt')
+nltk.download('wordnet')
+nltk.download('gutenberg')
 
 def preprocess_news(df):
     corpus=[]
